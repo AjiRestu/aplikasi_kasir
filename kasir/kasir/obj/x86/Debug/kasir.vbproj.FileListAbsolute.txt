@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\kasir\kasir\obj\x86\Debug\kasir.form_login.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\kasir\kasir\obj\x86\Debug\kasir.Form_utama.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\kasir\kasir\obj\x86\Debug\kasir.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\kasir\kasir\obj\x86\Debug\kasir.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\kasir\kasir\obj\x86\Debug\kasir.Form_menu.resources
